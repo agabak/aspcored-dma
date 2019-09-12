@@ -59,3 +59,5 @@ typings/
 
 # next.js build output
 .next
+/WebApplication1/bin
+/WebApplication1/obj
