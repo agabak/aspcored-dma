@@ -25,7 +25,8 @@ namespace WebApplication1
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseWelcomePage();
+            // comments
+            app.UseWelcomePage();  
         }
     }
 }
